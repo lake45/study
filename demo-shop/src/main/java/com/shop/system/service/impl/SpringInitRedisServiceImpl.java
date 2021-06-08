@@ -49,7 +49,7 @@ public class SpringInitRedisServiceImpl implements SpringInitRedisService {
 
         String string = stringStringMap.get("shop-1");
 
-        JSONObject jsonObject = JSONObject.fromObject(json);
+//        JSONObject jsonObject = JSONObject.fromObject(json);
 
         return false;
     }
