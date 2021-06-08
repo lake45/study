@@ -1,0 +1,186 @@
+2021-05-27 22:04:48.351 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field mapper in com.shop.system.service.impl.BaseServiceImpl required a bean of type 'com.shop.base.MyMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.shop.base.MyMapper' in your configuration.
+
+2021-05-27 22:06:22.049 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field mapper in com.shop.system.service.impl.BaseServiceImpl required a bean of type 'com.shop.base.MyMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.shop.base.MyMapper' in your configuration.
+
+2021-05-27 22:09:10.001 [main] ERROR org.springframework.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:782)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:763)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202)
+	at com.api.StartUp.main(StartUp.java:28)
+Caused by: java.lang.NullPointerException: null
+	at com.shop.system.common.utils.redis.GeneralCacheUtils.hmset(GeneralCacheUtils.java:53)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findArea(SpringInitRedisServiceImpl.java:38)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findSystemParamToRedis(SpringInitRedisServiceImpl.java:26)
+	at com.api.StartUp.run(StartUp.java:33)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779)
+	... 5 common frames omitted
+2021-05-27 22:13:03.917 [main] ERROR org.springframework.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:782)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:763)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202)
+	at com.api.StartUp.main(StartUp.java:28)
+Caused by: java.lang.NullPointerException: null
+	at com.shop.system.common.utils.redis.GeneralCacheUtils.hmset(GeneralCacheUtils.java:53)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findArea(SpringInitRedisServiceImpl.java:38)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findSystemParamToRedis(SpringInitRedisServiceImpl.java:26)
+	at com.api.StartUp.run(StartUp.java:33)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779)
+	... 5 common frames omitted
+2021-05-27 22:16:14.415 [main] ERROR org.springframework.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:782)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:763)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202)
+	at com.api.StartUp.main(StartUp.java:28)
+Caused by: java.lang.NullPointerException: null
+	at com.shop.system.common.utils.redis.GeneralCacheUtils.hmset(GeneralCacheUtils.java:53)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findArea(SpringInitRedisServiceImpl.java:38)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findSystemParamToRedis(SpringInitRedisServiceImpl.java:26)
+	at com.api.StartUp.run(StartUp.java:33)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779)
+	... 5 common frames omitted
+2021-05-27 22:16:57.700 [main] ERROR org.springframework.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:782)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:763)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202)
+	at com.api.StartUp.main(StartUp.java:28)
+Caused by: java.lang.NullPointerException: null
+	at com.shop.system.common.utils.redis.GeneralCacheUtils.hmset(GeneralCacheUtils.java:53)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findArea(SpringInitRedisServiceImpl.java:38)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findSystemParamToRedis(SpringInitRedisServiceImpl.java:26)
+	at com.api.StartUp.run(StartUp.java:33)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779)
+	... 5 common frames omitted
+2021-05-27 22:18:51.326 [main] ERROR org.springframework.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:782)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:763)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202)
+	at com.api.StartUp.main(StartUp.java:28)
+Caused by: java.lang.NullPointerException: null
+	at com.shop.system.common.utils.redis.GeneralCacheUtils.hmset(GeneralCacheUtils.java:53)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findArea(SpringInitRedisServiceImpl.java:38)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findSystemParamToRedis(SpringInitRedisServiceImpl.java:26)
+	at com.api.StartUp.run(StartUp.java:33)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779)
+	... 5 common frames omitted
+2021-05-27 22:20:31.279 [main] ERROR org.springframework.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:782)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:763)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202)
+	at com.api.StartUp.main(StartUp.java:28)
+Caused by: java.lang.NullPointerException: null
+	at com.shop.system.common.utils.redis.GeneralCacheUtils.hmset(GeneralCacheUtils.java:53)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findArea(SpringInitRedisServiceImpl.java:40)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findSystemParamToRedis(SpringInitRedisServiceImpl.java:26)
+	at com.api.StartUp.run(StartUp.java:33)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779)
+	... 5 common frames omitted
+2021-05-27 22:21:41.352 [main] ERROR org.springframework.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:782)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:763)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202)
+	at com.api.StartUp.main(StartUp.java:28)
+Caused by: java.lang.NullPointerException: null
+	at com.shop.system.common.utils.redis.GeneralCacheUtils.hmset(GeneralCacheUtils.java:53)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findArea(SpringInitRedisServiceImpl.java:40)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findSystemParamToRedis(SpringInitRedisServiceImpl.java:26)
+	at com.api.StartUp.run(StartUp.java:33)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779)
+	... 5 common frames omitted
+2021-05-27 22:44:46.886 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of method setCacheHandle in com.shop.system.common.utils.redis.GeneralCacheUtils required a bean of type 'com.shop.system.common.utils.redis.CacheHandle' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.shop.system.common.utils.redis.CacheHandle' in your configuration.
+
+2021-05-27 22:48:05.674 [main] ERROR org.springframework.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:782)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:763)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202)
+	at com.api.StartUp.main(StartUp.java:29)
+Caused by: java.lang.NullPointerException: null
+	at com.shop.system.common.utils.redis.GeneralCacheUtils.hmset(GeneralCacheUtils.java:54)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findArea(SpringInitRedisServiceImpl.java:40)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findSystemParamToRedis(SpringInitRedisServiceImpl.java:26)
+	at com.api.StartUp.run(StartUp.java:34)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779)
+	... 5 common frames omitted
+2021-05-27 23:01:08.505 [main] ERROR org.springframework.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:782)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:763)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202)
+	at com.api.StartUp.main(StartUp.java:29)
+Caused by: java.lang.NullPointerException: null
+	at com.shop.system.common.utils.redis.GeneralCacheUtils.hmset(GeneralCacheUtils.java:22)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findArea(SpringInitRedisServiceImpl.java:40)
+	at com.shop.system.service.impl.SpringInitRedisServiceImpl.findSystemParamToRedis(SpringInitRedisServiceImpl.java:26)
+	at com.api.StartUp.run(StartUp.java:34)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779)
+	... 5 common frames omitted

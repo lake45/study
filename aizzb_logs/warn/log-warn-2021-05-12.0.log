@@ -1,0 +1,1 @@
+2021-05-12 22:15:16.785 [http-nio-9091-exec-9] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]

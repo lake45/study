@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.shop.system.domain.mapper.ShopCodeMapper">
+
+    <sql id="baseColumn">
+        id                                  AS id,
+        code                                AS code,
+        code_name                           AS codeName,
+        code_sort                           AS codeSort
+    </sql>
+
+    <select id="findSysCodes" resultType="com.shop.system.domain.model.ShopCodeModel">
+        SELECT
+            <include refid="baseColumn"></include>
+        FROM
+         shop_code
+        WHERE  code IS NOT NULL
+        ORDER BY code_sort
+    </select>
+</mapper>

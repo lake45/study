@@ -1,0 +1,241 @@
+2021-05-12 21:58:05.453 [main] INFO  com.api.StartUp - Starting StartUp on OEN17CKSA76P3HF with PID 8256 (D:\lake\demo\deom-web\target\classes started by Administrator in D:\lake\demo)
+2021-05-12 21:58:05.483 [main] INFO  com.api.StartUp - The following profiles are active: process,prod
+2021-05-12 21:58:08.271 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9091 (http)
+2021-05-12 21:58:08.311 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9091"]
+2021-05-12 21:58:08.331 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-12 21:58:08.331 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-05-12 21:58:08.581 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-12 21:58:08.581 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2916 ms
+2021-05-12 21:58:09.741 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-12 21:58:10.071 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-05-12 21:58:10.071 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-05-12 21:58:10.081 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-05-12 21:58:10.081 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2021-05-12 21:58:10.101 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9091"]
+2021-05-12 21:58:10.161 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9091 (http) with context path ''
+2021-05-12 21:58:10.171 [main] INFO  com.api.StartUp - Started StartUp in 7.096 seconds (JVM running for 16.942)
+2021-05-12 21:59:57.810 [Thread-19] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:00:10.177 [main] INFO  com.api.StartUp - Starting StartUp on OEN17CKSA76P3HF with PID 6088 (D:\lake\demo\deom-web\target\classes started by Administrator in D:\lake\demo)
+2021-05-12 22:00:10.177 [main] INFO  com.api.StartUp - The following profiles are active: process,prod
+2021-05-12 22:00:12.260 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9091 (http)
+2021-05-12 22:00:12.300 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:00:12.310 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-12 22:00:12.310 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-05-12 22:00:12.510 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-12 22:00:12.510 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2191 ms
+2021-05-12 22:00:13.624 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:00:13.904 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-05-12 22:00:13.904 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-05-12 22:00:13.904 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-05-12 22:00:13.904 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2021-05-12 22:00:13.934 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:00:13.974 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9091 (http) with context path ''
+2021-05-12 22:00:13.984 [main] INFO  com.api.StartUp - Started StartUp in 5.405 seconds (JVM running for 12.301)
+2021-05-12 22:00:36.988 [http-nio-9091-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-12 22:00:36.988 [http-nio-9091-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-12 22:00:37.018 [http-nio-9091-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 20 ms
+2021-05-12 22:00:46.706 [Thread-19] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:00:59.623 [main] INFO  com.api.StartUp - Starting StartUp on OEN17CKSA76P3HF with PID 10784 (D:\lake\demo\deom-web\target\classes started by Administrator in D:\lake\demo)
+2021-05-12 22:00:59.628 [main] INFO  com.api.StartUp - The following profiles are active: process,prod
+2021-05-12 22:01:01.810 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9091 (http)
+2021-05-12 22:01:01.840 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:01:01.850 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-12 22:01:01.850 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-05-12 22:01:02.080 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-12 22:01:02.080 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2310 ms
+2021-05-12 22:01:03.270 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:01:03.570 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-05-12 22:01:03.570 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-05-12 22:01:03.570 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-05-12 22:01:03.570 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2021-05-12 22:01:03.600 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:01:03.650 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9091 (http) with context path ''
+2021-05-12 22:01:03.660 [main] INFO  com.api.StartUp - Started StartUp in 5.64 seconds (JVM running for 12.255)
+2021-05-12 22:01:09.173 [http-nio-9091-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-12 22:01:09.173 [http-nio-9091-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-12 22:01:09.183 [http-nio-9091-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2021-05-12 22:07:22.077 [http-nio-9091-exec-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-05-12 22:07:22.575 [http-nio-9091-exec-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-05-12 22:16:31.860 [Thread-19] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:16:31.864 [Thread-19] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-05-12 22:16:32.027 [Thread-19] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-05-12 22:16:56.142 [main] INFO  com.api.StartUp - Starting StartUp on OEN17CKSA76P3HF with PID 1964 (D:\lake\demo\deom-web\target\classes started by Administrator in D:\lake\demo)
+2021-05-12 22:16:56.153 [main] INFO  com.api.StartUp - The following profiles are active: process,prod
+2021-05-12 22:16:59.329 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9091 (http)
+2021-05-12 22:16:59.362 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:16:59.381 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-12 22:16:59.382 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-05-12 22:16:59.674 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-12 22:16:59.675 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3294 ms
+2021-05-12 22:17:01.043 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:17:01.468 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-05-12 22:17:01.469 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-05-12 22:17:01.470 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-05-12 22:17:01.475 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2021-05-12 22:17:01.519 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:17:01.593 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9091 (http) with context path ''
+2021-05-12 22:17:01.602 [main] INFO  com.api.StartUp - Started StartUp in 7.352 seconds (JVM running for 18.288)
+2021-05-12 22:17:17.307 [http-nio-9091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-12 22:17:17.308 [http-nio-9091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-12 22:17:17.322 [http-nio-9091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 14 ms
+2021-05-12 22:28:37.277 [Thread-19] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:28:55.584 [main] INFO  com.api.StartUp - Starting StartUp on OEN17CKSA76P3HF with PID 10344 (D:\lake\demo\deom-web\target\classes started by Administrator in D:\lake\demo)
+2021-05-12 22:28:55.595 [main] INFO  com.api.StartUp - The following profiles are active: process,prod
+2021-05-12 22:28:58.128 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9091 (http)
+2021-05-12 22:28:58.156 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:28:58.172 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-12 22:28:58.172 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-05-12 22:28:58.433 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-12 22:28:58.433 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2693 ms
+2021-05-12 22:28:59.600 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:28:59.976 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-05-12 22:28:59.978 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-05-12 22:28:59.979 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-05-12 22:28:59.983 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2021-05-12 22:29:00.024 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:29:00.100 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9091 (http) with context path ''
+2021-05-12 22:29:00.110 [main] INFO  com.api.StartUp - Started StartUp in 6.674 seconds (JVM running for 14.726)
+2021-05-12 22:29:10.246 [http-nio-9091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-12 22:29:10.247 [http-nio-9091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-12 22:29:10.264 [http-nio-9091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 17 ms
+2021-05-12 22:32:38.852 [Thread-19] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:32:58.264 [main] INFO  com.api.StartUp - Starting StartUp on OEN17CKSA76P3HF with PID 7196 (D:\lake\demo\deom-web\target\classes started by Administrator in D:\lake\demo)
+2021-05-12 22:32:58.270 [main] INFO  com.api.StartUp - The following profiles are active: process,prod
+2021-05-12 22:33:00.986 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9091 (http)
+2021-05-12 22:33:01.015 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:33:01.029 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-12 22:33:01.030 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-05-12 22:33:01.297 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-12 22:33:01.298 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2870 ms
+2021-05-12 22:33:02.430 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:33:02.757 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-05-12 22:33:02.758 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-05-12 22:33:02.759 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-05-12 22:33:02.762 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2021-05-12 22:33:02.788 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:33:02.844 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9091 (http) with context path ''
+2021-05-12 22:33:02.851 [main] INFO  com.api.StartUp - Started StartUp in 6.638 seconds (JVM running for 15.374)
+2021-05-12 22:33:47.715 [http-nio-9091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-12 22:33:47.715 [http-nio-9091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-12 22:33:47.758 [http-nio-9091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 42 ms
+2021-05-12 22:35:28.347 [Thread-19] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:35:45.897 [main] INFO  com.api.StartUp - Starting StartUp on OEN17CKSA76P3HF with PID 2140 (D:\lake\demo\deom-web\target\classes started by Administrator in D:\lake\demo)
+2021-05-12 22:35:45.904 [main] INFO  com.api.StartUp - The following profiles are active: process,prod
+2021-05-12 22:35:48.805 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9091 (http)
+2021-05-12 22:35:48.835 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:35:48.854 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-12 22:35:48.855 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-05-12 22:35:49.100 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-12 22:35:49.100 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3038 ms
+2021-05-12 22:35:50.358 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:35:50.688 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-05-12 22:35:50.689 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-05-12 22:35:50.690 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-05-12 22:35:50.693 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2021-05-12 22:35:50.720 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:35:50.776 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9091 (http) with context path ''
+2021-05-12 22:35:50.784 [main] INFO  com.api.StartUp - Started StartUp in 6.778 seconds (JVM running for 14.551)
+2021-05-12 22:36:08.061 [http-nio-9091-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-12 22:36:08.062 [http-nio-9091-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-12 22:36:08.075 [http-nio-9091-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 13 ms
+2021-05-12 22:37:50.734 [Thread-19] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:38:05.258 [main] INFO  com.api.StartUp - Starting StartUp on OEN17CKSA76P3HF with PID 11408 (D:\lake\demo\deom-web\target\classes started by Administrator in D:\lake\demo)
+2021-05-12 22:38:05.265 [main] INFO  com.api.StartUp - The following profiles are active: process,prod
+2021-05-12 22:38:07.870 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9091 (http)
+2021-05-12 22:38:07.900 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:38:07.917 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-12 22:38:07.918 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-05-12 22:38:08.184 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-12 22:38:08.184 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2773 ms
+2021-05-12 22:38:09.522 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:38:09.853 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-05-12 22:38:09.854 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-05-12 22:38:09.855 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-05-12 22:38:09.858 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2021-05-12 22:38:09.887 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:38:09.941 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9091 (http) with context path ''
+2021-05-12 22:38:09.949 [main] INFO  com.api.StartUp - Started StartUp in 6.404 seconds (JVM running for 14.094)
+2021-05-12 22:38:16.001 [http-nio-9091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-12 22:38:16.002 [http-nio-9091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-12 22:38:16.019 [http-nio-9091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 16 ms
+2021-05-12 22:39:18.326 [Thread-19] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:39:35.284 [main] INFO  com.api.StartUp - Starting StartUp on OEN17CKSA76P3HF with PID 1148 (D:\lake\demo\deom-web\target\classes started by Administrator in D:\lake\demo)
+2021-05-12 22:39:35.292 [main] INFO  com.api.StartUp - The following profiles are active: process,prod
+2021-05-12 22:39:38.324 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9091 (http)
+2021-05-12 22:39:38.368 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:39:38.387 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-12 22:39:38.387 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-05-12 22:39:38.641 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-12 22:39:38.642 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3175 ms
+2021-05-12 22:39:39.883 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:39:40.255 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-05-12 22:39:40.256 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-05-12 22:39:40.257 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-05-12 22:39:40.262 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2021-05-12 22:39:40.299 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:39:40.356 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9091 (http) with context path ''
+2021-05-12 22:39:40.366 [main] INFO  com.api.StartUp - Started StartUp in 6.868 seconds (JVM running for 15.077)
+2021-05-12 22:40:03.338 [http-nio-9091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-12 22:40:03.339 [http-nio-9091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-12 22:40:03.354 [http-nio-9091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 15 ms
+2021-05-12 22:43:06.686 [Thread-19] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:43:24.730 [main] INFO  com.api.StartUp - Starting StartUp on OEN17CKSA76P3HF with PID 10960 (D:\lake\demo\deom-web\target\classes started by Administrator in D:\lake\demo)
+2021-05-12 22:43:24.738 [main] INFO  com.api.StartUp - The following profiles are active: process,prod
+2021-05-12 22:43:27.681 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9091 (http)
+2021-05-12 22:43:27.713 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:43:27.734 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-12 22:43:27.734 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-05-12 22:43:27.995 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-12 22:43:27.996 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3071 ms
+2021-05-12 22:43:29.297 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:43:29.795 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-05-12 22:43:29.796 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-05-12 22:43:29.798 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-05-12 22:43:29.803 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2021-05-12 22:43:29.862 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:43:29.935 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9091 (http) with context path ''
+2021-05-12 22:43:29.943 [main] INFO  com.api.StartUp - Started StartUp in 7.238 seconds (JVM running for 15.639)
+2021-05-12 22:43:56.355 [http-nio-9091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-12 22:43:56.356 [http-nio-9091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-12 22:43:56.376 [http-nio-9091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 20 ms
+2021-05-12 22:44:34.746 [Thread-19] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:44:48.869 [main] INFO  com.api.StartUp - Starting StartUp on OEN17CKSA76P3HF with PID 10852 (D:\lake\demo\deom-web\target\classes started by Administrator in D:\lake\demo)
+2021-05-12 22:44:48.875 [main] INFO  com.api.StartUp - The following profiles are active: process,prod
+2021-05-12 22:44:51.553 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9091 (http)
+2021-05-12 22:44:51.582 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:44:51.595 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-12 22:44:51.595 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-05-12 22:44:51.808 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-12 22:44:51.808 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2694 ms
+2021-05-12 22:44:53.091 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:44:53.419 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-05-12 22:44:53.420 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-05-12 22:44:53.421 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-05-12 22:44:53.424 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2021-05-12 22:44:53.459 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:44:53.513 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9091 (http) with context path ''
+2021-05-12 22:44:53.521 [main] INFO  com.api.StartUp - Started StartUp in 6.487 seconds (JVM running for 14.119)
+2021-05-12 22:45:06.969 [http-nio-9091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-12 22:45:06.970 [http-nio-9091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-12 22:45:06.985 [http-nio-9091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 15 ms
+2021-05-12 22:46:07.201 [Thread-19] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:46:24.786 [main] INFO  com.api.StartUp - Starting StartUp on OEN17CKSA76P3HF with PID 1868 (D:\lake\demo\deom-web\target\classes started by Administrator in D:\lake\demo)
+2021-05-12 22:46:24.806 [main] INFO  com.api.StartUp - The following profiles are active: process,prod
+2021-05-12 22:46:27.655 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9091 (http)
+2021-05-12 22:46:27.690 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:46:27.703 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-12 22:46:27.704 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-05-12 22:46:27.930 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-12 22:46:27.930 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2937 ms
+2021-05-12 22:46:29.112 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-12 22:46:29.476 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-05-12 22:46:29.477 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-05-12 22:46:29.478 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-05-12 22:46:29.480 [main] INFO  t.mybatis.mapper.autoconfigure.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2021-05-12 22:46:29.507 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9091"]
+2021-05-12 22:46:29.573 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9091 (http) with context path ''
+2021-05-12 22:46:29.584 [main] INFO  com.api.StartUp - Started StartUp in 6.619 seconds (JVM running for 14.746)
+2021-05-12 22:46:42.038 [http-nio-9091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-12 22:46:42.039 [http-nio-9091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-05-12 22:46:42.051 [http-nio-9091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 12 ms
+2021-05-12 22:52:39.558 [Thread-19] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
